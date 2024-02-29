@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+boo boo
 
-[Link to another page](./another-page.html).
+[Link to another page](weber.edu).
 
 There should be whitespace between paragraphs.
 
