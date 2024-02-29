@@ -2,11 +2,11 @@
 layout: default
 ---
 
-boo boo
+boo boo boo boo
 
 [Link to another page](weber.edu).
 
-There should be whitespace between paragraphs.
+alksdjfalkdhglakhghalghl.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
